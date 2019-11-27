@@ -35,14 +35,7 @@
           "title": "Ocado Self Raising Flour",
           "size": "1.5kg",
           "imageUrl": "https://mobile.ocado.com/webservices/catalogue/items/item/407680011/images/image/0/240x240.jpg"
-        },
-        {
-          "id": 386130011,
-          "price": "2.50",
-          "title": "Ocado Flaked Almonds",
-          "size": "200g",
-          "imageUrl": "https://mobile.ocado.com/webservices/catalogue/items/item/386130011/images/image/0/240x240.jpg"
-        },
+        },        
         {
           "id": 386132011,
           "price": "2.00",
@@ -99,13 +92,6 @@
           "title": "Ocado Red Onions",
           "size": "3 per pack",
           "imageUrl": "https://mobile.ocado.com/webservices/catalogue/items/item/65453011/images/image/0/240x240.jpg"
-        },
-        {
-          "id": 54450011,
-          "price": "1.20",
-          "title": "Ocado Garlic",
-          "size": "4 per pack",
-          "imageUrl": "https://mobile.ocado.com/webservices/catalogue/items/item/54450011/images/image/0/240x240.jpg"
         },
         {
           "id": 65448011,
@@ -195,14 +181,6 @@
       "allergyInformation": "No allergens"
     },
     {
-      "id": 54450011,
-      "price": "1.20",
-      "title": "Ocado Garlic",
-      "imageUrl": "https://mobile.ocado.com/webservices/catalogue/items/item/54450011/images/image/0/360x360.jpg",
-      "description": "Our plump bulbs are firm with the white flaky dry outer skin that the best garlic has.",
-      "allergyInformation": "No allergens"
-    },
-    {
       "id": 407680011,
       "price": "0.60",
       "title": "Ocado Self Raising Flour",
@@ -225,15 +203,7 @@
       "imageUrl": "https://mobile.ocado.com/webservices/catalogue/items/item/386132011/images/image/0/360x360.jpg",
       "description": "Ocado dried pitted prunes. They're perfect as a snack or for adding a deliciously decadent touch to salads, starters and desserts.",
       "allergyInformation": "May contain traces of soya and gluten."
-    },
-    {
-      "id": 386130011,
-      "price": "2.50",
-      "title": "Ocado Flaked Almonds",
-      "imageUrl": "https://mobile.ocado.com/webservices/catalogue/items/item/386130011/images/image/0/360x360.jpg",
-      "description": "This sweet & fragrant nut is perfect in baking and as a crunchy topping.",
-      "allergyInformation": "Almonds(Nut) May also contain traces of other nuts and sesame seeds."
-    },
+    },   
     {
       "id": 309396011,
       "price": "1.45",
