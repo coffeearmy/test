@@ -44,13 +44,6 @@
           "imageUrl": "https://mobile.ocado.com/webservices/catalogue/items/item/386130011/images/image/0/240x240.jpg"
         },
         {
-          "id": 438716011,
-          "price": "0.85",
-          "title": "Ocado Lime Juice",
-          "size": "250ml",
-          "imageUrl": "https://mobile.ocado.com/webservices/catalogue/items/item/438716011/images/image/0/240x240.jpg"
-        },
-        {
           "id": 386132011,
           "price": "2.00",
           "title": "Ocado Prunes",
@@ -223,14 +216,6 @@
       "imageUrl": "https://mobile.ocado.com/webservices/catalogue/items/item/54450011/images/image/0/360x360.jpg",
       "description": "Our plump bulbs are firm with the white flaky dry outer skin that the best garlic has. The cloves are full of the pungent garlic flavour that is a signature of many of the world's favourite cuisines.",
       "allergyInformation": "No allergens"
-    },
-    {
-      "id": 438716011,
-      "price": "0.85",
-      "title": "Ocado Lime Juice",
-      "imageUrl": "https://mobile.ocado.com/webservices/catalogue/items/item/438716011/images/image/0/360x360.jpg",
-      "description": "Ocado lime juice from concentrate.",
-      "allergyInformation": "Lime juice from concentrate, lime oil, preservative (potassium matabisulphite)"
     },
     {
       "id": 407680011,
