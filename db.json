@@ -1,5 +1,5 @@
 { 
-  "products": [
+  "products": 
     {
       "clusters": [
         {
@@ -119,8 +119,7 @@
           ]
         }
       ]
-    }
-  ],
+   },
   "product" : [
     {
       "id": 91500011,
